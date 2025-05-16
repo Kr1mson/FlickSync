@@ -1,0 +1,11 @@
+pandas
+numpy
+tensorflow
+matplotlib
+transformers
+faiss-cpu
+torch
+opencv-python
+streamlit
+imageio
+av
